@@ -9,12 +9,12 @@
             "isEnabled": true
         },
         "discordRichPresence": {
-            "clientID": "920998351430901790",
+            "clientID": "1083281396509978755",
             "icon": "logo",
-            "iconText": "Solar Tweaks",
-            "afkText": "AFK",
-            "menuText": "In Menu",
-            "singlePlayerText": "Playing Singleplayer",
+            "iconText": "Simple-Tweaks",
+            "afkText": "The Player Is Away From Their Input Device",
+            "menuText": "In the Minecraft Menu",
+            "singlePlayerText": "Is Playing On A Singleplayer World",
             "displayActivity": true,
             "showServerIP": true,
             "showIcon": true,
